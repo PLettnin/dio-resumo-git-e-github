@@ -66,9 +66,8 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
    - para adicionar um projeto novo ao projeto em execução, sem interferir no principal;
 
  - exemplo:
- um projeto em execução, tenha duas ou mais pessoas trabalhando/acessando, poderia confitar, se cada um tiver uma branches, cada uma trabalha na sua, e pode testar o seu recurso;
-
-                           M      
+ um projeto em execução, tenha duas ou mais pessoas trabalhando/acessando, poderia confitar, se cada um tiver uma branches, cada uma trabalha na sua, e pode testar o seu recurso
+      
    - commit0 < commit1 < commit 2
                            teste
    - comandos
