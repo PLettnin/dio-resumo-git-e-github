@@ -1,5 +1,6 @@
 # Patrick Resumo Git GIThub     
 
+    ## ATUALIZAR 
 
  GIT  ( https://git-scm.com/ )
         - é uma sistema de controle de versão distribuido;
@@ -84,7 +85,12 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
       - git branch -d XXXX  // DELETAR a brach XXXX
 
 
+## DICAS
+- git pull > git fetch + git merge 
+- git fetch origin main
+- git dif main origin/main
 
+https://github.com/elidianaandrade/dio-curso-git-github
 
 
 
@@ -100,4 +106,8 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
 ...
 
 git init
+
+
+
+
 
