@@ -94,7 +94,7 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
       - vai abrir um visual code online; 
       - editar os arquivo desejado;
       - opção de visualizar alterações, clicando botão direito no arquivo, ABRIR VISUALIZAÇÕES;
-      - 
+  - git pull // no repositorio local, para baixar as atualizações realizadas no repositorio remoto (GIT HUB/ Visual code);
 
 ## 🖨💻 Resumo da aula
 
