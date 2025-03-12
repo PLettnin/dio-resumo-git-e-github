@@ -59,23 +59,21 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
       - vai abrir um visual code online; 
       - editar os arquivo desejado;
       - opção de visualizar alterações, clicando botão direito no arquivo, ABRIR VISUALIZAÇÕES;
-  - git pull // no repositorio local, para baixar as atualizações realizadas no repositorio remoto (GIT HUB/ Visual code);
+      - 
+   - git pull // no repositorio local, para baixar as atualizações realizadas no repositorio remoto (GIT HUB/ Visual code);
 
 ## Branches (Ramo)
- - raminficaçôes;
+ - raminficações;
    - para adicionar um projeto novo ao projeto em execução, sem interferir no principal;
 
- - exemplo:
-<<<<<<< HEAD
+ - exemplo
+
  um projeto em execução, tenha duas ou mais pessoas trabalhando/acessando, poderia confitar, se cada um tiver uma branches, cada uma trabalha na sua, e pode testar o seu recurso;
 
-                                
-=======
- um projeto em execução, tenha duas ou mais pessoas trabalhando/acessando, poderia confitar, se cada um tiver uma branches, cada uma trabalha na sua, e pode testar o seu recurso
-      
->>>>>>> 78c60a386045accc58341f0c4dad36c1593fc95e
+                              
    - commit0 < commit1 < commit 2
                            teste
+   
    - comandos
       - git branch -v  //para as branch
       -echo "#commint -XXX-brach-YYYY" > commit-brach-YYYY.txt // criar uma branch 
@@ -86,18 +84,20 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
       - git branch -d XXXX  // DELETAR a brach XXXX
 
 
+
+
+
+
 ## 🖨💻 Resumo da aula
 
 | aulas | Resumo|
 |-------| ------|
 |tokens | configurações (lado direito)/configurações de desenvolvedor(lado direito)/fichas classico para gera e ver quandon expira o token; |
 |-------| ------|
-| Gravando alterações no REPO |[resumo ] ()|
+| Gravando alterações no REPO |resumo  ()|
 
 
 ...
 
 git init
-
-
 
