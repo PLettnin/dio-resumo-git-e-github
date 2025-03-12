@@ -63,20 +63,20 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
    - git pull // no repositorio local, para baixar as atualizações realizadas no repositorio remoto (GIT HUB/ Visual code);
 
 ## Branches (Ramo)
- - raminficações;
+ - ramificações;
    - para adicionar um projeto novo ao projeto em execução, sem interferir no principal;
 
- - exemplo
+ - exemplo;
 
- um projeto em execução, tenha duas ou mais pessoas trabalhando/acessando, poderia confitar, se cada um tiver uma branches, cada uma trabalha na sua, e pode testar o seu recurso;
+    - um projeto em execução, tenha duas ou mais pessoas trabalhando/acessando, poderia confitar, se cada um tiver uma branches, cada uma trabalha na sua, e pode testar o seu recurso;
 
                               
-   - commit0 < commit1 < commit 2
+    - commit0 < commit1 < commit 2
                            teste
    
    - comandos
       - git branch -v  //para as branch
-      -echo "#commint -XXX-brach-YYYY" > commit-brach-YYYY.txt // criar uma branch 
+      -echo "#commit -XXX-brach-YYYY" > commit-brach-YYYY.txt // criar uma branch 
       - checkin XXXX // para entrar numa branch XXXX
       - checkout main // para voltar para main
       - git merge XXXX // mescla a branch XXXX com as branches aparece pasta
