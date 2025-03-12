@@ -88,6 +88,13 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
 
  - git remote add origin https:xxxxxxxxxxxxxxx ( completar com o link, para comentar o local com o github)
  - git push -u origin main // responsavel por enviar os comando repositario local para o remoto, atualiza pagina vai atualizar o github com os arquivos local.
+ - outra forma de editar os arquivos no repositório, no guihut, utilizando a tecla PONTO "." do teclado; 
+      -  precisa estar logado
+      - clicar no PONTO
+      - vai abrir um visual code online; 
+      - editar os arquivo desejado;
+      - opção de visualizar alterações, clicando botão direito no arquivo, ABRIR VISUALIZAÇÕES;
+      - 
 
 ## 🖨💻 Resumo da aula
 
