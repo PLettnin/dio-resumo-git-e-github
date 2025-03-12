@@ -68,10 +68,17 @@ Lista de comandos no Git... ( https://git-scm.com/docs/git#_git_commands )
  - exemplo:
  um projeto em execução, tenha duas ou mais pessoas trabalhando/acessando, poderia confitar, se cada um tiver uma branches, cada uma trabalha na sua, e pode testar o seu recurso;
 
-                           main         
+                           M      
    - commit0 < commit1 < commit 2
                            teste
-   
+   - comandos
+      - git branch -v  //para as branch
+      -echo "#commint -XXX-brach-YYYY" > commit-brach-YYYY.txt // criar uma branch 
+      - checkin XXXX // para entrar numa branch XXXX
+      - checkout main // para voltar para main
+      - git merge XXXX // mescla a branch XXXX com as branches aparece pasta
+      - git branch // para lista as branche, * branch que estamos
+      - git branch -d XXXX  // DELETAR a brach XXXX
 
 
 ## 🖨💻 Resumo da aula
